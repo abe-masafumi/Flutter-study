@@ -11,6 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  numeric_keyboard: ^1.1.0
+  intl: ^0.18.1
 
   cupertino_icons: ^1.0.2
 
